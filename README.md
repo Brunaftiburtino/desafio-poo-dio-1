@@ -44,7 +44,7 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando ca
 
 <h3>🔺 ENCAPSULAMENTO:</h3>
 
-<p> Encapsular significa esconder a implementação dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.</p>
+<p> Encapsular significa esconder a implementação dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução. Não permite que seus consumidores possam acessá-la</p>
 
 <h3>🔺 HERANÇA:</h3>
 
